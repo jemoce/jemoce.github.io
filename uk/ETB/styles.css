@@ -1,0 +1,184 @@
+.tyre-results-outer{height:255px;width:31%;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;border:1px solid #ccc;margin:10px 2% 10px 0;float:left}#results-header{height:10px}.results-image{width:100%;height:135px;border:0px solid #ccc;background:#fff;float:left;overflow:hidden;margin:10px 0}.results-image img{border:0 none currentColor;max-width:1000%;vertical-align:middle}.results-image-rec{background:#fff none repeat scroll 0 0;float:left;height:170px;margin:10px 0;overflow:hidden;width:100%}.manuf-image{max-width:100%; text-align: center; padding-top: 10px}.manuf-image img{max-width:100%}.results-text{height:110px;margin:0 5px 0 5px;float:left;font-size:10px}.centre-results-outer{height:128px;border-radius:6px;border:1px solid #bbb;background:#999;color:#204387}.centre-results-inner{height:84px;border-radius:6px;border:1px solid #bbb;background:#ccc;padding:10px;position:relative;left:-1px;top:6px;color:#676767;font-size:12px;line-height:16px}#basket{height:496px;width:256px;background:#eee;border:2px solid #ccc;border-radius:5px;padding:10px}#basket-header{border-bottom:1px solid #ccc;color:#00349a;font-size:18px;text-align:center;padding:13px 0}#basket-text{padding:10px 0}.basket-section{padding:10px 0}.basket-section-title{color:#00349a;display:block}.basket-section-text{color:#707070}#basket-summary{border-top:1px solid #ccc;border-bottom:1px solid #ccc;padding:10px 0;color:#00349a}.image-wrap{border-radius:6px;overflow:hidden}#time-selector{color:#000;list-style-type:none;margin:15px 0 0;padding:0}#time-selector li{background-color:#f1f1f2;border-radius:5px 5px 5px 5px;cursor:pointer;display:inline;font-size:1em;font-weight:700;height:20px;margin:3px;padding:5px 17px;text-align:center;vertical-align:middle;width:100%;background-color:#006dcc;background-image:linear-gradient(to bottom,#08c,#04c);background-repeat:repeat-x;border-color:rgba(0,0,0,.1) rgba(0,0,0,.1) rgba(0,0,0,.25);color:#fff;text-shadow:0 -0px 0 rgba(0,0,0,.25)}#time-selector .ui-selecting{background:#feca40}#time-selector .ui-selected{background:#f39814;color:#fff}#time-selector li.disabled{background-color:#cc0606;color:#fff}label.error{color:#f22;display:block!important;background-color:#fcc;padding:4px}.ui-datepicker{font-size:120%!important;width:100%!important;padding-bottom:20px}.details-form-error{color:#c00;font-size:12px}.reg{background-position:left;background-color:#efe424;font-size:22px;padding:5px 0 5px 20px;text-transform:uppercase;font-weight:700;width:100%;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;border:0}.margin-top{margin-top:10px}.margin-bottom{margin-bottom:10px}.margin-top-extra{margin-top:30px}.img-left{float:left;margin:10px 20px 10px 0}.img-right{float:right;margin:10px 0 10px 20px}.align-right{text-align:right}.min-height{height:85px;overflow:hidden}.min-height-small{min-height:40px}.text-small{font-size:12px;line-height:14px}.clearfloat{clear:both;line-height:0;font-size:1px;margin:0}#tbl_cookies{margin:10px 0 20px 0}#tbl_cookies tr td{padding:5px}.tyres{background-image:url(../img/tyres-home-bg.jpg);background-position:right center;background-size:cover;height:80px}.custom-font{font-size:22px}.underline{text-decoration-line:underline}.sticky-call-button{height:50px;padding:15px;width:100%;background-color:green;background-attachment:scroll;background-position:0 0;position:fixed;bottom:0;left:0;z-index:1;color:#fff!important;font-size:18px}.navbar-inverse{background-color:#c00!important;background-image:linear-gradient(to bottom,#c00,#c00);background-repeat:repeat-x;border-color:#fff #c00;box-shadow:0 6px 6px rgba(50,50,50,.5)}.text-grey{color:grey}.sticky-footer{height:50px;width:100%;background-color:#f0f8ff;background-attachment:scroll;background-position:0 0;position:fixed;bottom:0;left:0;align-content:center}.checked{color:#ffd000}.tyre-label-a{background-color:#00a651}.tyre-label-b{background-color:#4db848}.tyre-label-c{background-color:#bed62f}.tyre-label-d{background-color:#fff200}.tyre-label-e{background-color:#f36f21}.tyre-label-f{background-color:#ed1c24}.text-center{text-align:center!important}.min-h{min-height:140px}.radius{-webkit-border-top-right-radius:5px;-webkit-border-bottom-right-radius:5px;-moz-border-radius-topright:5px;-moz-border-radius-bottomright:5px;border-top-right-radius:5px;border-bottom-right-radius:5px}.exhausts{background-image:url(../img/exhausts-home-bg.jpg);background-position:right center;background-size:cover;height:80px}.Pirelli{background-image:url(../img/Pirelli.jpg);background-position:left;background-size:cover;height:80px}.truck{background-image:url(../img/truck-home-bg.jpg);background-position:right center;background-size:cover;height:80px}.mot{background-image:url(../img/mot-home-bg.jpg);background-position:right center;background-size:cover;height:80px}.ms-wheels{background-image:url(http://www.speedlinecorse.net/media//catalog/category/motorsport-rally-banner.jpg);background-position:right center;background-size:cover;height:80px}.wheels{background-image:url(../img/wheels-home-bg.jpg);background-position:right center;background-size:cover;height:80px}.mobile{background-image:url(../img/alignment-home-bg.jpg);background-position:center bottom;background-size:cover;height:80px}.steering{background-image:url(../img/alignment-home-bg.jpg);background-position:left center;height:80px}.brakes{background-image:url(../img/brakes-home-bg.jpg);background-position:right center;background-size:cover;height:80px}.servcing{background-image:url(../img/servicing-home-bg.jpg);background-size:cover;height:80px}.winter{background-image:url(../img/winter.jpg);background-position:center center;background-size:cover;height:80px}.runflat{background-image:url(../img/rf-ft.jpg);background-position:center top;height:80px}.batteries{background-image:url(../img/batteries-home-bg.jpg);background-position:center center;height:80px}.diag{background-image:url(../img/diag.jpg);background-position:center center;background-size:cover;height:80px}.mt{margin:10px 0 10px}header{background-color:#c00}a{color:#c00;text-decoration:none}a:hover{color:#333}.top-header{background-color:#c00;min-height:10px;color:#fff}.top-header-foot{background-color:#333;min-height:3px;text-align:center;padding-top:10px;color:orange;padding-bottom:10px}.top-header-foot a{color:orange}.navbar-inverse .navbar-nav>li>a{color:#fff}.well-w{background-color:#fff;border:1px solid #e3e3e3;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,.05) inset;min-height:20px;padding:19px}.navbar{border-radius:0}.dropdown-menu>li>a:hover{background-color:#c00;color:#fff}footer{background-color:#333;color:#fff;padding:15px 0 10px 0;margin-top:10px;min-height:85px}footer a{color:#fff}footer a:hover{color:#fff}.home-bg{border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;border:1px solid #ccc}.panel-body-custom{padding:1px 10px 1px 10px;color:#fff;background-color:#333}.panel-custom{border-color:#ddd}.panel-custom>.panel-heading{color:#fff;background-color:#333;border-color:#fff}.panel-custom>.panel-heading+.panel-collapse>.panel-body{border-top-color:#999}.panel-custom>.panel-heading .badge{color:#999;background-color:#fff}.panel-custom>.panel-footer+.panel-collapse>.panel-body{border-bottom-color:#999}.panel-results-filters{border-color:#ddd}.panel-results-filters .panel-title{font-size:85%}.panel-results-filters>.panel-heading{border-color:#ddd;background-color:#ccc}.panel-results{border-color:#ddd;min-height:300px;text-align:center}.panel-results>.panel-title{font-size:85%}.panel-results>.panel-heading{color:#333;background-color:#fff;border-color:#ddd}.panel-results>.panel-heading+.panel-collapse>.panel-body{border-top-color:#ddd}.panel-results>.panel-heading .badge{color:#f5f5f5;background-color:#333}.panel-results>.panel-footer+.panel-collapse>.panel-body{border-bottom-color:#ddd}.panel-results>.panel-footer{background-color:#fff}.refine-bg{background-color:#666}.text-white{color:#fff}.text-white a{color:#fff}.text-green{color:#090}.text-dark-grey{color:#333}.text-light-grey{color:#999}.text-black{color:#000}.text-blue{color:#337ab7}.text-red{color:red}.align{text-align:center}.form-error{color:#c00;font-size:11px}form input.btn-block{text-transform:uppercase;font-weight:700;font-size:17px}.battery{text-transform:uppercase;font-weight:700;font-size:17px}.glyphicon-ring{width:60px;height:60px;border-radius:50%;border:4px solid #fff;color:#fff;display:inline-table;text-align:center}.glyphicon-ring .glyphicon-bordered{font-size:20px;vertical-align:middle;display:table-cell}.glyphicon-white{background:#fff;color:#000;border:4px solid #000}.glyphicon-teal{background:teal;color:orange}.glyphicon-red{background:red}.yellow-star{color:#000;font-size:25px;-moz-display:none}.yellow-star-inner{color:#ff0;position:absolute;font-size:19px;left:3px;top:2px}@-moz-document url-prefix(){.yellow-star{color:#ff0;font-size:25px;text-shadow:-1px 0 #000,0 1px #000,1px 0 #000,0 -1px #000}.yellow-star-inner{display:none}} .border {
+  border: 1px solid #dee2e6 !important;
+}
+.checked {
+    color: #ffd000;
+}
+
+
+#time-selector li {
+    background-color: #c0c0c0;
+    border-radius: 2px 2px 2px 2px;
+    cursor: pointer;
+    display: inline;
+    font-size: 1em;
+    font-weight: 700;
+    height: 20px;
+    margin: 3px;
+    padding: 5px 17px;
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+    background-image: none ;
+    background-repeat: repeat-x;
+    border-color: rgba(0,0,0,.1) rgba(0,0,0,.1) rgba(0,0,0,.25);
+    color: #000;
+
+}
+
+
+#time-selector .ui-selected {
+    background: #f39814;
+    color: #fff;
+}
+
+.basket-amount {
+    position: absolute;
+    top: 3px;
+    right: 0px;
+    width: 21px;
+    height: 21px;
+    background: red;
+    border-radius: 50%;
+    font-size: 12px;
+    text-align: center;
+    line-height: 21px;
+}
+
+.basket-empty {
+    position: absolute;
+    top: 3px;
+    right: 0px;
+    width: 21px;
+    height: 21px;
+    background: none;
+    border-radius: 50%;
+    font-size: 12px;
+    text-align: center;
+    line-height: 21px;
+}
+
+ul.dropdown-menu.dropdown_account  {
+    background: #cc0000;
+}
+ul.dropdown-menu.dropdown_account li {
+    color: white;
+    background: #cc0000;
+}
+ul.dropdown-menu.dropdown_account li a {
+    color: white;
+}
+.dropdown-menu.dropdown_account .divider {
+    background-color: #e5e5e5;
+}
+.dropdown-menu.dropdown_account>li>a.btn {
+    color: #333;
+    margin: 5px 5px;
+}
+.dropdown-menu.dropdown_account>li>a.btn:hover {
+    background-color: #c00;
+    color: #fff;
+}
+.socials_login {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.socials_login a{
+    margin: 10px 5px;
+}
+.social_warnings{
+    margin-bottom: 10px;
+}
+
+/*TabsToggleStart*/
+.tabs-toggle {
+    display: flex;
+}
+.tabs-toggle .nav-tabs {
+    border: 0;
+}
+.tabs-toggle .nav-tabs li {
+    margin-bottom: 0;
+}
+.tabs-toggle .nav-tabs > li > a {
+    border: 0;
+    border-radius: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-right: 0;
+    position: relative;
+    display: flex;
+    color: black;
+}
+.tabs-toggle .nav-tabs > li > a,
+.tabs-toggle .nav-tabs > li > a:focus,
+.tabs-toggle .nav-tabs > li > a:hover {
+    border: 0;
+    background-color: transparent;
+}
+.tabs-toggle .nav-tabs > li.active > a,
+.tabs-toggle .nav-tabs > li.active > a:focus,
+.tabs-toggle .nav-tabs > li.active > a:hover {
+    border: 0;
+    background-color: transparent;
+    color: #c00;
+}
+.tabs-toggle .nav-tabs > li:first-child > a {
+    padding-right: 24px;
+}
+.tabs-toggle .nav-tabs > li:last-child > a {
+    padding-left: 24px;
+}
+.tabs-toggle .nav-tabs > li > a:before{
+    content: "";
+    background-color: #ed1c24;
+    display: block;
+    width: 14px;
+    height: 16px;
+    position: absolute;
+    top: calc(50% - 8px);
+    z-index: 1;
+    border-radius: 8px;
+}
+.tabs-toggle .nav-tabs > li:first-child > a:before {
+    right: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.tabs-toggle .nav-tabs > li:last-child > a:before {
+    left: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.tabs-toggle .nav-tabs > li.active > a:after {
+    content: "";
+    background-color: white;
+    display: block;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    top: calc(50% - 6px);
+    z-index: 2;
+    border-radius: 8px;
+    left: 0;
+}
+.tabs-toggle .nav-tabs > li.active:first-child > a:after {
+    right: 0;
+    left: initial;
+}
+/*TabsToggleEnd*/
+
+.well-ts {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #333;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+}
