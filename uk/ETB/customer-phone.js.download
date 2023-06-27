@@ -1,9 +1,0 @@
-$(document).ready(function(e) {		// calls function on body load
-	phoneNumber();
-});
-	
-function phoneNumber() {			// function
-	var tel = '01234 567 891';		// input customer telephone number
-			
-	$(".customerPhone").html(tel);
-}
